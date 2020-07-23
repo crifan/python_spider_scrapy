@@ -49,7 +49,9 @@ cd cbeebies
 scrapy crawl Cbeebies
 ```
 
-即可生成对应的html文件。
+即可生成对应的html文件：
+
+![scrapy_html_cbeebies](../assets/img/scrapy_html_cbeebies.jpg)
 
 ## help=帮助信息=语法
 

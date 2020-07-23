@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=23t1f8d2ISs&list=PLHOR8x-IicVJDAmJWZmJ-IMu1x3lTA
 
 的预览效果是：
 
-![local_youtube_page](../assets/img/local_youtube_page.png)
+![local_youtube_page](../assets/img/local_youtube_page.jpg)
 
 对应`xpath`是：
 
