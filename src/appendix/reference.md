@@ -16,4 +16,5 @@
 * [【已解决】Mac中PyCharm中去加断点实时调试scrapy的项目](http://www.crifan.com/mac_pycharm_add_breakpoint_to_realtime_debug_scrapy_project)
 * [【整理】pyspider vs scrapy](http://www.crifan.com/python_spider_framework_pyspider_vs_scrapy)
 * [Scrapy Spider 原理 · Scrapy with Python3](https://crazymouse.gitbooks.io/scrapy-with-python3/content/scrapy-spider-%E5%8E%9F%E7%90%86.html)
+* [【已解决】Scrapy如何添加本地socks代理以便能打开Youtube网页 – 在路上](https://www.crifan.com/scrapy_how_add_local_socks_proxy_to_open_youtube_website/)
 * 

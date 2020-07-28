@@ -1,6 +1,6 @@
 {
   "title": "主流Python爬虫框架：Scrapy",
-  "description": "介绍Python领域最流行的爬虫框架Scrapy的概况，基本用法以及一些心得总结，比如PyCharm中如何调试Scrapy等，以及Scrapy相关的其他一些内容。",
+  "description": "介绍Python领域最流行的爬虫框架Scrapy的概况，基本用法和实际用法举例，以及Scrapy shell基本介绍；以及一些心得总结，比如Scrapy和PySpider的对比、看到的和抓取到的网页源码不同、PyCharm中如何调试Scrapy、robots.txt、丢失部分链接等，以及Scrapy相关的其他一些内容和参考文档和资料。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
